@@ -1,7 +1,6 @@
 # TDD med din makker
 **Edge cases:** <br/>
-1: Jeg har gjort således, at hvis brugeren indtaster et tal, som ville give logiske problemer for udregningen, <br/> 
-så returnere den -1. Dvs, at hvis man får -1 så har man indtastet et ikke gyldigt tal. <br/><br/>
+1: Jeg har gjort så at programmerne vil returnere -1 som fejl besked. <br/><br/>
 2: Jeg har gjort, så at hvis man indtaster et meget stort tal, så for man også -1, <br/>
 da computeren bliver ked af det, hvis loopet skal køre for mange gange. <br/><br/>
 3: Negative tal vil også give -1, da sådanne tal vil gøre resultatet lidt uforudsigeligt. <br/><br/>
