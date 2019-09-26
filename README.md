@@ -1,4 +1,5 @@
 # TDD med din makker
+## Edge cases:
 1: Jeg har gjort således, at hvis brugeren indtaster et tal, som ville give logiske problemer for udregningen, <br/> 
 så returnere den -1. Dvs, at hvis man får -1 så har man indtastet et ikke gyldigt tal. <br/><br/>
 2: Jeg har gjort, så at hvis man indtaster et meget stort tal, så for man også -1, <br/>
