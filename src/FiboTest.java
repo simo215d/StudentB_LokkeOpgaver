@@ -8,6 +8,5 @@ public class FiboTest extends TestCase {
         assertEquals(15,test.Beregn(5));
         assertEquals(-1,test.Beregn(100000));
         assertEquals(-1,test.Beregn(-3));
-
     }
 }
